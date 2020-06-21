@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App de Clima</string>
+    <string name="weather_image">Imagen del clima</string>
+    <string name="daily">Diario</string>
+    <string name="hourly">Hora</string>
+    <string name="no_data">No hay datos</string>
+    <string name="network_error">Error de Red. Intente nuevamente</string>
+    <string name="Ok">Ok</string>
+    <string name="temp">%1$s°</string>
+    <string name="precip_prob">%1$d%%</string>
+    <string name="lang">es</string>
+
+</resources>
